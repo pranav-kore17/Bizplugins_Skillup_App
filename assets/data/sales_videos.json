@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Contra Voucher",
+    "description": "Learn how to manage contra voucher transactions and entries.",
+    "url": "assets/videos/contra_voucher.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+  },
+  {
+    "title": "POS with Bank Payment",
+    "description": "Learn how to process POS transactions using bank payment.",
+    "url": "assets/videos/pos_bank_payment.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800"
+  },
+  {
+    "title": "POS with Buyback and Split Pay",
+    "description": "Learn how to handle buyback and split payment in POS.",
+    "url": "assets/videos/pos_buyback_split_pay.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800"
+  },
+  {
+    "title": "POS with Card Payment",
+    "description": "Learn how to process POS transactions using card payment.",
+    "url": "assets/videos/pos_card_payment.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800"
+  },
+  {
+    "title": "POS with Cash Payment",
+    "description": "Learn how to process POS transactions using cash payment.",
+    "url": "assets/videos/pos_cash_payment.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1579621970795-87facc2f976d?w=800"
+  },
+  {
+    "title": "POS with Credit Payment",
+    "description": "Learn how to process POS transactions using credit payment.",
+    "url": "assets/videos/pos_credit_payment.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?auto=format&fit=crop&w=800&q=80"
+  }
+]
